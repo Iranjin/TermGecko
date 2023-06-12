@@ -1,3 +1,5 @@
+# beta 1.2
+
 #!/usr/bin/env python
 import contextlib as __stickytape_contextlib
 
