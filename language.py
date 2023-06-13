@@ -1,7 +1,4 @@
 
-EN = "en"
-JA = "ja"
-
 Language = {
     "en": {
         "help": """"{num}": Toggle on/off
