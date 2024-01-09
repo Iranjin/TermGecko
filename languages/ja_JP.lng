@@ -1,6 +1,28 @@
 [INFORMATION]
-author=Iranjin
-language=ja_JP
-version=1.0
+author="Iranjin"
+language="ja_JP"
+version="1.0"
 
 [TABLE]
+file_not_found="ファイル'%s'が見つかりませんでした"
+something_went_wrong="問題が発生しました"
+error_code="エラーコード"
+code_list="コードリスト"
+setting="設定"
+settings="設定"
+help="ヘルプ"
+exit="閉じる"
+exit_confirm="本当に閉じてもよろしいですか？"
+format_is_incorrect="形式が正しくありません"
+saved="保存しました"
+boolean="ブール値"
+string="文字列"
+float="浮動小数点数"
+integer="整数"
+select_an_index="番号を指定してください"
+ip_address="IPアドレス"
+port="ポート"
+enter_ip_address="WiiUのIPアドレスを入力してください"
+enter_port="WiiUのポートを入力してください (デフォルト: 7331)"
+language="言語"
+enter_language_code="言語コードを入力してください"
